@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.sepolia
+.env.sepolia.last
+*.log
+mint.log*
+.DS_Store
+.vscode/
+.idea/
+coverage/
+*.tsbuildinfo
